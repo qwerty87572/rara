@@ -1,0 +1,24 @@
+.h11{
+    background-color: cadetblue;
+    border-radius: 15px;
+    border: 4px solid red;
+    text-align: center;
+}
+.ss1{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid white;
+}
+.red{
+    background-color: red;
+    padding: 5px;
+}
+.green{
+    background-color: green;
+}
+.violent{
+    background-color: violet;
+}
